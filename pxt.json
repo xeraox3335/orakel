@@ -1,0 +1,25 @@
+{
+    "name": "Orakel",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "pxt-faces": "github:calliope-edu/pxt-faces#8aa2a4defa37dcda4f1aabed461114d7344816e6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.11",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
